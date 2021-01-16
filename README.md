@@ -4,15 +4,7 @@
 
 An insecure random password generator made of vanilla JavaScript.
 
-## Table of Contents
-
-* [License](#license)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [Contributions](#contributions)
-* [Tests](#tests)
-
+![screenshot](assets/pw-generator-screenshot.png)
 
 ## License
     
@@ -28,7 +20,7 @@ Use my password generator [here](https://rawagschal.github.io/pw-generator/)
 
 ## Credits
 
-Stackoverflow and W3Schools, as always
+Stackoverflow, W3Schools, and [the homie who wrote the starter code](https://github.com/Xandromus), as always.
 
 ## Contributions
 
