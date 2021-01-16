@@ -54,9 +54,8 @@ function generatePassword() {
   }
   // combine the selectedChars array of arrays into a single possibleChars array
   var possibleChars = selectedChars.flat();
-  console.log(possibleChars);
 
-  // define results as empty array for random characters to be pushed to
+  // empty results array for random characters to be pushed to
   var results = [];
 
   // randomly select characters for the user input pwLength # of times 
